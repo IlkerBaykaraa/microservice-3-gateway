@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="microservice-3-gateway/src/main/java"/>
+	<classpathentry kind="src" path="microservice-3-gateway/src/test/java"/>
+	<classpathentry kind="lib" path="microservice-3-gateway/build/libs/microservice-3-gateway-0.0.1-SNAPSHOT-plain.jar"/>
+	<classpathentry kind="lib" path="microservice-3-gateway/build/libs/microservice-3-gateway-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="microservice-3-gateway/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malha/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.7.2/spring-boot-autoconfigure-2.7.2.jar" sourcepath="C:/Users/malha/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.7.2/spring-boot-autoconfigure-2.7.2-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.boot"/>
+			<attribute name="maven.artifactId" value="spring-boot-autoconfigure"/>
+			<attribute name="maven.version" value="2.7.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/malha/.m2/repository/org/springframework/boot/spring-boot/2.7.2/spring-boot-2.7.2.jar" sourcepath="C:/Users/malha/.m2/repository/org/springframework/boot/spring-boot/2.7.2/spring-boot-2.7.2-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.boot"/>
+			<attribute name="maven.artifactId" value="spring-boot"/>
+			<attribute name="maven.version" value="2.7.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/malha/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.3.22/fdd59bb4795c7a399e95ec4a5c8b91103e3189fd/spring-context-5.3.22.jar" sourcepath="C:/Users/malha/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.3.22/f4db315532d6ac425ca16e7c80119c6837ae325d/spring-context-5.3.22-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/malha/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-crypto/5.7.3/886d808324f2c346fb47cc79ab617ff7973c029c/spring-security-crypto-5.7.3.jar" sourcepath="C:/Users/malha/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-crypto/5.7.3/30f7b7958b37790de06e40c6329f7e9196531027/spring-security-crypto-5.7.3-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/malha/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.24/13a394eed5c4f9efb2a6d956e2086f1d81e857d9/lombok-1.18.24.jar" sourcepath="C:/Users/malha/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.24/a95c9f4bc8e3000f7b7adfdf5732b13cca5451e/lombok-1.18.24-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="microservice-3-gateway/build/classes/java/main"/>
+</classpath>
